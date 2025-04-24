@@ -20,7 +20,7 @@ const Header = () => {
               cursor: 'pointer',
             }}
           >
-            Crypto Tracker
+            Crypto Pulse
           </Typography>
         </Toolbar>
       </Container>
