@@ -2,8 +2,10 @@ import React from 'react'
 
 const Coinpage = () => {
   return (
-    <div>Coinpage</div>
+    <div>
+        <h1>Coinpage</h1>
+    </div>
   )
 }
 
-export default Coinpage
+export default Coinpage;
