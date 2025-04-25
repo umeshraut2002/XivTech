@@ -34,6 +34,36 @@ a responsive and visually appealing cryptocurrency tracker web app build with re
 - CoinGecko API – Real-time cryptocurrency data  
 - React Sparklines – graphs
 
+## Project Structure 
+
+crypto-pulse/
+├── public/
+│   └── assets/
+│       └── screenshots/
+├── src/
+│   ├── assets/
+│   │   └── screenshots/
+│   ├── components/
+│   │   ├── CoinsTable.jsx
+│   │   └── Header.jsx
+│   ├── config/
+│   │   └── Config.jsx
+│   ├── pages/
+│   │   ├── Coinpage.jsx
+│   │   └── Homepage.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── CryptContext.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.js
+
 ## Live Deployment
 
 [View Live on Vercel](https://crypto-pulse-coral.vercel.app/)
@@ -50,3 +80,6 @@ a responsive and visually appealing cryptocurrency tracker web app build with re
 ![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(887).png)
 ![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(888).png)
 ![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(889).png)
+
+## Name
+- Umesh Raut
