@@ -36,7 +36,7 @@ a responsive and visually appealing cryptocurrency tracker web app build with re
 
 ## Live Deployment
 
-[View Live on Netlify](https://your-netlify-link.netlify.app)
+[View Live on Vercel](https://crypto-pulse-coral.vercel.app/)
 
 ## Screenshots
 
@@ -50,7 +50,3 @@ a responsive and visually appealing cryptocurrency tracker web app build with re
 ![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(887).png)
 ![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(888).png)
 ![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(889).png)
-
-
-## 📂 Project Structure
-
