@@ -1,12 +1,56 @@
-# React + Vite
+# Crypto-Pulse - Real-Time Cryptocurrency 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+a responsive and visually appealing cryptocurrency tracker web app build with react, redux, axios and material-ui. It Displays real time market data for cryptocurrency including price, market cap, volume, percent changes, and last 7days graph in sparkline. 
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search Functionality – Search coins by name
+- Live Prices & Market Cap – Real-time data fetched using CoinGecko API
+- Percentage Changes – View changes in 1h, changes in 24h, and changes in 7d.
+- Sparklines – Last 7-day trend graph using `react-sparklines`
+- Volume & Circulating Supply – Additional detailed metrics
+- Dark Theme UI – Material UI dark mode integration
+- Responsive Design – Works across desktop, tablet, and mobile screens
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## UI Design
+
+- Colors:  
+  - Primary: `#FFA500` (Orange for headers and highlights)  
+  - Background: Dark mode  
+  - Positive change: `#32CD32` (Limegreen)  
+  - Negative change: `#FF0000` (Red)
+
+- Fonts:  
+  - `Montserrat` (headings)  
+  - System font stack for content
+
+## Tech Stack
+
+- React.js – Frontend framework  
+- Material UI – UI components & themes  
+- Axios – Data fetching  
+- CoinGecko API – Real-time cryptocurrency data  
+- React Sparklines – graphs
+
+## Live Deployment
+
+[View Live on Netlify](https://your-netlify-link.netlify.app)
+
+## Screenshots
+
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(880).png) 
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(881).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(882).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(883).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(884).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(885).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(886).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(887).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(888).png)
+![Desktop Screenshot](/crypto-pulse/src/assets/screenshotss/Screenshot%20(889).png)
+
+
+## 📂 Project Structure
+
